@@ -1,5 +1,8 @@
 # webp-imageio-core
-forked from qwong/j-webp
+forked from qwang0755/j-webp
+
+*this repo just want to publish the library to maven*
+
 Java Image I/O reader and writer for the Google WebP image format without system lib file.
 
 In source program, coders need to put native lib files like .so/.dll/.dylib into the folder of `java.library.path`.
@@ -41,6 +44,12 @@ if you use maven, you can put it `${project.basedir}/libs`, and edit config file
     <scope>system</scope>  
     <systemPath>${project.basedir}/libs/webp-imageio-core-{version}.jar</systemPath>  
 </dependency>
+```
+
+or you can use maven the maven as 
+
+```gradle
+implementation 'com.github:webp-imageio-core:0.1.3'
 ```
 
 The usage of api, you can see example cases in `src/main/java/example`.

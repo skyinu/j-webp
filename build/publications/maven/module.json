@@ -1,0 +1,70 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github",
+    "module": "webp-imageio-core",
+    "version": "0.1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.8.3",
+      "buildId": "vy4gpaezkvf2xdlff3hygy4ohq"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "webp-imageio-core-0.1.3.jar",
+          "url": "webp-imageio-core-0.1.3.jar",
+          "size": 925531,
+          "sha512": "15937870018ab8e5382f3b6335fcd52be2f9cb9042b898239dcf7356baaadec660a9aba664d76a442f65933f3990969142de952f73b3d6148a545e768d284433",
+          "sha256": "6600547064364c32e93a7be42b653df5019451bfda429e59baf5e8205ec2de4c",
+          "sha1": "3a9bf7cd49842693d4c8a615a0430185ef34e8fa",
+          "md5": "e1d8a83316eb08fb644efc84d4ac01b0"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.scijava",
+          "module": "native-lib-loader",
+          "version": {
+            "requires": "2.1.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "webp-imageio-core-0.1.3.jar",
+          "url": "webp-imageio-core-0.1.3.jar",
+          "size": 925531,
+          "sha512": "15937870018ab8e5382f3b6335fcd52be2f9cb9042b898239dcf7356baaadec660a9aba664d76a442f65933f3990969142de952f73b3d6148a545e768d284433",
+          "sha256": "6600547064364c32e93a7be42b653df5019451bfda429e59baf5e8205ec2de4c",
+          "sha1": "3a9bf7cd49842693d4c8a615a0430185ef34e8fa",
+          "md5": "e1d8a83316eb08fb644efc84d4ac01b0"
+        }
+      ]
+    }
+  ]
+}

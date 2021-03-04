@@ -1,0 +1,18 @@
+-classpath 'D:\\j-webp\\build\\classes\\java\\main;D:\\j-webp\\build\\resources\\main;C:\\Users\\chen\\.m2\\repository\\org\\scijava\\native-lib-loader\\2.1.3\\native-lib-loader-2.1.3.jar'
+-d 'D:\\j-webp\\build\\docs\\javadoc'
+-doctitle 'webp-imageio-core 0.1.3 API'
+-notimestamp 
+-quiet 
+-windowtitle 'webp-imageio-core 0.1.3 API'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\VP8StatusCode.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebP.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPDecoderOptions.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPEncoderOptions.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPImageReaderSpi.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPImageWriterSpi.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPReader.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPReadParam.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPWriteParam.java'
+'D:\\j-webp\\src\\main\\java\\com\\luciad\\imageio\\webp\\WebPWriter.java'
+'D:\\j-webp\\src\\main\\java\\example\\DecodeTest.java'
+'D:\\j-webp\\src\\main\\java\\example\\EncodeTest.java'

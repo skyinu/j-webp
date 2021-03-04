@@ -1,0 +1,25 @@
+com/luciad/imageio/webp/VP8StatusCode.java
+ com.luciad.imageio.webp.VP8StatusCode
+example/DecodeTest.java
+ example.DecodeTest
+example/EncodeTest.java
+ example.EncodeTest
+com/luciad/imageio/webp/WebPEncoderOptions.java
+ com.luciad.imageio.webp.WebPEncoderOptions
+com/luciad/imageio/webp/WebPImageReaderSpi.java
+ com.luciad.imageio.webp.WebPImageReaderSpi
+com/luciad/imageio/webp/WebPWriteParam.java
+ com.luciad.imageio.webp.WebPWriteParam
+com/luciad/imageio/webp/WebPReadParam.java
+ com.luciad.imageio.webp.WebPReadParam
+com/luciad/imageio/webp/WebPDecoderOptions.java
+ com.luciad.imageio.webp.WebPDecoderOptions
+com/luciad/imageio/webp/WebPWriter.java
+ com.luciad.imageio.webp.WebPWriter
+com/luciad/imageio/webp/WebPReader.java
+ com.luciad.imageio.webp.WebPReader
+com/luciad/imageio/webp/WebPImageWriterSpi.java
+ com.luciad.imageio.webp.WebPImageWriterSpi
+com/luciad/imageio/webp/WebP.java
+ com.luciad.imageio.webp.WebP
+ com.luciad.imageio.webp.WebP$1
