@@ -4,6 +4,7 @@ target/
 *.zip
 *.tar
 *.tar.gz
+.gradle
 
 # eclipse ignore
 .settings/
@@ -30,7 +31,9 @@ logs/
 *.java~
 *.properties~
 *.xml~
+build
 
 # system ignore
 .DS_Store
 Thumbs.db
+local.properties
